@@ -2,7 +2,7 @@
 
 > **Turn 60 minutes of educational content into 5 viral short-form clips — automatically.**
 
-[![Demo Video](https://img.shields.io/badge/🎬_Demo-Watch_Now-FF6B35?style=for-the-badge)](YOUR_GOOGLE_DRIVE_LINK_HERE)
+[![Demo Video](https://img.shields.io/badge/🎬_Demo-Watch_Now-FF6B35?style=for-the-badge)](https://drive.google.com/file/d/1-HB-aa27I2U9aeTkgq32R2OFnBydBQ7Y/view?usp=sharing)
 [![Live App](https://img.shields.io/badge/🚀_Live_App-Try_Now-4CAF50?style=for-the-badge)](YOUR_DEPLOYED_URL_HERE)
 
 ---
