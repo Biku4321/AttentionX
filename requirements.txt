@@ -1,0 +1,34 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+celery==5.4.0
+redis==5.0.7
+pydantic==2.7.4
+pydantic-settings==2.3.4
+
+# AI & ML
+#openai-whisper==20231117
+google-generativeai==0.7.2
+# mediapipe — install separately after setuptools fix (see README)
+
+# Audio / Video
+librosa==0.10.2
+moviepy==1.0.3
+numpy==1.26.4
+opencv-python==4.10.0.84
+Pillow==10.4.0
+imageio==2.34.2
+imageio-ffmpeg==0.5.1
+decorator==4.4.2
+
+# Frontend
+streamlit==1.36.0
+requests==2.32.3
+plotly==5.22.0
+
+# Utilities
+python-dotenv==1.0.1
+aiofiles==23.2.1
+httpx==0.27.0
+tqdm==4.66.4
+setuptools>=70.0.0

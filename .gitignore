@@ -1,0 +1,26 @@
+# Environments
+venv/
+env/
+.env
+
+# Local Video Processing Folders (CRITICAL: Do not push heavy videos)
+uploads/
+outputs/
+*.mp4
+*.mkv
+*.avi
+*.wav
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Celery & Redis
+celerybeat-schedule
+celerybeat.pid
+
+# OS generated files
+.DS_Store
+Thumbs.db
